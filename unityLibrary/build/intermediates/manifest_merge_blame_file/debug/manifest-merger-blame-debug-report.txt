@@ -1,0 +1,128 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="22"
+7-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+10-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+11
+12    <uses-feature android:glEsVersion="0x00020000" />
+12-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:4:3-52
+12-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:4:17-49
+13    <uses-feature
+13-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:5:3-88
+14        android:name="android.hardware.touchscreen"
+14-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:5:17-60
+15        android:required="false" />
+15-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:5:61-85
+16    <uses-feature
+16-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:6:3-99
+17        android:name="android.hardware.touchscreen.multitouch"
+17-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:6:17-71
+18        android:required="false" />
+18-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:6:72-96
+19    <uses-feature
+19-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:7:3-108
+20        android:name="android.hardware.touchscreen.multitouch.distinct"
+20-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:7:17-80
+21        android:required="false" />
+21-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:7:81-105
+22
+23    <application
+23-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:8:3-24:17
+24        android:extractNativeLibs="true"
+24-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:8:16-48
+25        android:isGame="true" >
+25-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:8:49-70
+26        <meta-data
+26-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:9:5-69
+27            android:name="unity.splash-mode"
+27-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+28            android:value="0" />
+28-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:9:49-66
+29        <meta-data
+29-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:10:5-74
+30            android:name="unity.splash-enable"
+30-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:10:16-50
+31            android:value="True" />
+31-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:10:51-71
+32        <meta-data
+32-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:11:5-78
+33            android:name="unity.launch-fullscreen"
+33-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:11:16-54
+34            android:value="True" />
+34-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:11:55-75
+35        <meta-data
+35-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:12:5-84
+36            android:name="unity.render-outside-safearea"
+36-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:12:16-60
+37            android:value="True" />
+37-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:12:61-81
+38        <meta-data
+38-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:13:5-81
+39            android:name="notch.config"
+39-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:13:16-43
+40            android:value="portrait|landscape" />
+40-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:13:44-78
+41        <meta-data
+41-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:14:5-84
+42            android:name="unity.auto-report-fully-drawn"
+42-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:14:16-60
+43            android:value="true" />
+43-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:14:61-81
+44
+45        <activity
+45-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:15:5-23:16
+46            android:name="com.unity3d.player.UnityPlayerActivity"
+46-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:15:15-68
+47            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+47-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:15:180-361
+48            android:exported="true"
+48-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:15:433-456
+49            android:hardwareAccelerated="false"
+49-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:15:397-432
+50            android:launchMode="singleTask"
+50-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:15:148-179
+51            android:resizeableActivity="false"
+51-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:15:362-396
+52            android:screenOrientation="fullUser"
+52-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:15:111-147
+53            android:theme="@style/UnityThemeSelector" >
+53-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:15:69-110
+54            <intent-filter>
+54-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:16:7-20:23
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:17:9-69
+55-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:17:19-66
+56                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+56-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:18:9-78
+56-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:18:19-75
+57
+58                <action android:name="android.intent.action.MAIN" />
+58-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:19:9-61
+58-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:19:17-58
+59            </intent-filter>
+60
+61            <meta-data
+61-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:21:7-82
+62                android:name="unityplayer.UnityActivity"
+62-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:21:18-58
+63                android:value="true" />
+63-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:21:59-79
+64            <meta-data
+64-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:22:7-70
+65                android:name="notch_support"
+65-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:22:18-46
+66                android:value="true" />
+66-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\src\main\AndroidManifest.xml:22:47-67
+67        </activity>
+68    </application>
+69
+70</manifest>

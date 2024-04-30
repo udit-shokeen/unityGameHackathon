@@ -1,0 +1,227 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.unity3d.player.test" >
+4
+5    <uses-sdk
+5-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:5:5-74
+6        android:minSdkVersion="22"
+6-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:5:15-41
+7        android:targetSdkVersion="32" />
+7-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:11:5-15:73
+10        android:name="android.test.InstrumentationTestRunner"
+10-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:11:22-75
+11        android:functionalTest="false"
+11-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:13:22-53
+13        android:label="Tests for com.unity3d.player.test"
+13-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:15:22-71
+14        android:targetPackage="com.unity3d.player.test" />
+14-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:12:22-69
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-67
+16-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-64
+17
+18    <uses-feature android:glEsVersion="0x00020000" />
+18-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-54
+18-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:19-51
+19    <uses-feature
+19-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-15:36
+20        android:name="android.hardware.touchscreen"
+20-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:9-52
+21        android:required="false" />
+21-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-33
+22    <uses-feature
+22-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:5-18:36
+23        android:name="android.hardware.touchscreen.multitouch"
+23-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-63
+24        android:required="false" />
+24-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-33
+25    <uses-feature
+25-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:5-21:36
+26        android:name="android.hardware.touchscreen.multitouch.distinct"
+26-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-72
+27        android:required="false" />
+27-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-33
+28
+29    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+29-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:9:5-79
+29-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:9:22-76
+30    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+30-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:11:5-79
+30-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:11:22-76
+31    <uses-permission android:name="com.android.vending.BILLING" />
+31-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:10:5-67
+31-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:10:22-64
+32    <!--
+33    This has been added to conform with requirement from Android 11 (API level 30) onwards
+34    (http://screen/9iGdBMRWDmVbRJ6), after getting confirmation in http://yaqs/995038231927980032#a1
+35    -->
+36    <queries>
+36-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:16:5-20:15
+37        <intent>
+37-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:17:9-19:18
+38            <action android:name="com.android.vending.billing.InAppBillingService.BIND" />
+38-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:18:13-91
+38-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:18:21-88
+39        </intent>
+40    </queries>
+41
+42    <application
+42-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:7:5-9:19
+43        android:debuggable="true"
+44        android:extractNativeLibs="true"
+44-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:9-41
+45        android:isGame="true" >
+45-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-30
+46        <uses-library android:name="android.test.runner" />
+46-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:8:9-60
+46-->C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest9817389032482659559.xml:8:23-57
+47
+48        <meta-data
+48-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-28:33
+49            android:name="unity.splash-mode"
+49-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-45
+50            android:value="0" />
+50-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-30
+51        <meta-data
+51-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-31:36
+52            android:name="unity.splash-enable"
+52-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-47
+53            android:value="True" />
+53-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-33
+54        <meta-data
+54-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:9-34:36
+55            android:name="unity.launch-fullscreen"
+55-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-51
+56            android:value="True" />
+56-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-33
+57        <meta-data
+57-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:9-37:36
+58            android:name="unity.render-outside-safearea"
+58-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-57
+59            android:value="True" />
+59-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-33
+60        <meta-data
+60-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:9-40:50
+61            android:name="notch.config"
+61-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:39:13-40
+62            android:value="portrait|landscape" />
+62-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-47
+63        <meta-data
+63-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:9-43:36
+64            android:name="unity.auto-report-fully-drawn"
+64-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-57
+65            android:value="true" />
+65-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-33
+66
+67        <activity
+67-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:9-67:20
+68            android:name="com.unity3d.player.UnityPlayerActivity"
+68-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-66
+69            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+69-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-194
+70            android:exported="true"
+70-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-36
+71            android:hardwareAccelerated="false"
+71-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:13-48
+72            android:launchMode="singleTask"
+72-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-44
+73            android:resizeableActivity="false"
+73-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-47
+74            android:screenOrientation="fullUser"
+74-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:13-49
+75            android:theme="@style/UnityThemeSelector" >
+75-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-54
+76            <intent-filter>
+76-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-59:29
+77                <category android:name="android.intent.category.LAUNCHER" />
+77-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:17-77
+77-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:27-74
+78                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+78-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:17-86
+78-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:27-83
+79
+80                <action android:name="android.intent.action.MAIN" />
+80-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:17-69
+80-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:58:25-66
+81            </intent-filter>
+82
+83            <meta-data
+83-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:61:13-63:40
+84                android:name="unityplayer.UnityActivity"
+84-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:62:17-57
+85                android:value="true" />
+85-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:63:17-37
+86            <meta-data
+86-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:64:13-66:40
+87                android:name="notch_support"
+87-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:65:17-45
+88                android:value="true" />
+88-->[:unityLibrary] C:\Users\Udit Shokeen\Desktop\Hackathon\UnityAndroidStudioBuild\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:66:17-37
+89        </activity>
+90        <activity
+90-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:14:9-18:74
+91            android:name="com.unity3d.services.ads.adunit.AdUnitActivity"
+91-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:15:13-74
+92            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+92-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:16:13-170
+93            android:hardwareAccelerated="true"
+93-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:17:13-47
+94            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+94-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:18:13-71
+95        <activity
+95-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:19:9-23:86
+96            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentActivity"
+96-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:20:13-85
+97            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+97-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:21:13-170
+98            android:hardwareAccelerated="true"
+98-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:22:13-47
+99            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+99-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:23:13-83
+100        <activity
+100-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:24:9-28:86
+101            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity"
+101-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:25:13-93
+102            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+102-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:26:13-170
+103            android:hardwareAccelerated="false"
+103-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:27:13-48
+104            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+104-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:28:13-83
+105        <activity
+105-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:29:9-33:74
+106            android:name="com.unity3d.services.ads.adunit.AdUnitSoftwareActivity"
+106-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:30:13-82
+107            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+107-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:31:13-170
+108            android:hardwareAccelerated="false"
+108-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:32:13-48
+109            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+109-->[:UnityAds:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:33:13-71
+110
+111        <meta-data
+111-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:23:9-25:37
+112            android:name="com.google.android.play.billingclient.version"
+112-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:24:13-73
+113            android:value="5.2.1" />
+113-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:25:13-34
+114
+115        <activity
+115-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:27:9-31:75
+116            android:name="com.android.billingclient.api.ProxyBillingActivity"
+116-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:28:13-78
+117            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+117-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:29:13-96
+118            android:exported="false"
+118-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:30:13-37
+119            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+119-->[:billing-5.2.1:] C:\Users\Udit Shokeen\.gradle\caches\transforms-3\d706ebaaa83266bd64d56f1b510fe16f\transformed\billing-5.2.1\AndroidManifest.xml:31:13-72
+120    </application>
+121
+122</manifest>
